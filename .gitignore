@@ -21,5 +21,10 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore idea files
 .idea
 .idea/*
+
+# Ignore spring files
+/spring/*.pid
